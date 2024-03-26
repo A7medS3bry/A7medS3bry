@@ -23,11 +23,13 @@ Ahmed Sabry</a></h1>
 <h3>My Contribution</h3>
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=A7medS3bry&theme=dark" alt="A7medS3bry" /></p>
 
+<br><br><br><br><br><br><br>
+
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
 <a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AVS1508&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=A7medS3bry&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=A7medS3bry&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
