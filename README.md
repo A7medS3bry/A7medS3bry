@@ -23,7 +23,8 @@ Ahmed Sabry</a></h1>
 <h3>Connect with me on</h3>
 <p>
 <br>	
-<a target="_blank" href="https://www.linkedin.com/in/a7med-sabry/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+<a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/a7med-sabry/">
+			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
 &emsp;
 <a target="_blank" href="mailto:coder.ahmed.sabry@gmail.com"
 ><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
