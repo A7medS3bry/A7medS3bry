@@ -17,5 +17,7 @@ Ahmed Sabry</a></h1>
 <h3>My GitHub Stats</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=A7medS3bry&show_icons=true&theme=dark&locale=en&layout=compact" alt="anii693" /></p>
 <br>
+<br>
+<br>
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=A7medS3bry&theme=dark" alt="anii693" /></p>
