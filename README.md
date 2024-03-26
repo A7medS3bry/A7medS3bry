@@ -2,13 +2,14 @@
 Ahmed Sabry</a></h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=BackEnd+Developer+.Net;Computer+Science+Student;Competitive+Programmer;Always+learning+new+things"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Backend+Developer+.Net;Computer+Science+Student;Always+learning+new+things"></a>
 </p>
 
 <hr>
 <br>
  <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> <h3>About me</h3>
 <p>Ahmed Sabry</p>
+
 <hr>
 
 <br><br><br><br><br><br><br>
@@ -17,6 +18,30 @@ Ahmed Sabry</a></h1>
 | ![Ahmed's github stats](https://github-readme-stats.vercel.app/api?username=A7medS3bry&show_icons=true&theme=tokyonight) | ![Ahmed GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=A7medS3bry&theme=tokyonight) |
 | --- | --- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=A7medS3bry&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=A7medS3bry&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
+
+
+
+<p>Connect with me on
+<br>	
+<a target="_blank" href="https://www.linkedin.com/in/a7med-sabry/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+&emsp;
+<a target="_blank" href="mailto:coder.ahmed.sabry@gmail.com"
+><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
+
+
+<br>
+</p>
+
+
+
+
+
+
+
+
+
+
+
 
 <!--	
 <br><br>
