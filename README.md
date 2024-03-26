@@ -18,6 +18,12 @@ Ahmed Sabry</a></h1>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=A7medS3bry&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+<br><br><br><br><br><br><br>
+[![Ahmed's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=A7medS3bry&theme=tokyonight)](https://git.io/praveenscience)
+
+| ![Ahmed's github stats](https://github-readme-stats.vercel.app/api?username=A7medS3bry&show_icons=true&theme=tokyonight) | ![Ahmed GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=A7medS3bry&theme=tokyonight) |
+| --- | --- |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=A7medS3bry&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=A7medS3bry&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 
 <!--	
 <br><br>
