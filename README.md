@@ -14,11 +14,14 @@ Ahmed Sabry</a></h1>
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 I’m currently student at computer science Azhar university
+
+- :school: I am a `Junior` at [Faculty of Computers & Informatics] at [Azhar University](http://suez.edu.eg/ar/).
+- :technologist: I love using Software as a solution for every `Problem`.
+- :student: I’m currently learning `Computer Science` and `Software Engineering`.
+- :nerd_face: Always `learning new things`.
+- :thinking: I’m currently open for a new `job opportunity` <a href="https://www.linkedin.com/in/a7med-sabry/" target="blank">LinkedIn</a>
 
 - 🌱 I’m currently Working on .Net Web App
-
-- 🤝 I’m available for freelancing.
 
 - 💬 Ask me about **.Net**
 
