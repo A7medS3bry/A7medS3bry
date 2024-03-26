@@ -12,7 +12,7 @@ Ahmed Sabry</a></h1>
 <hr>
 
 <br><br><br><br><br><br><br>
-[⚙️ &nbsp;GitHub Analytics]
+⚙️ &nbsp;GitHub Analytics
 
 | ![Ahmed's github stats](https://github-readme-stats.vercel.app/api?username=A7medS3bry&show_icons=true&theme=tokyonight) | ![Ahmed GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=A7medS3bry&theme=tokyonight) |
 | --- | --- |
