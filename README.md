@@ -10,6 +10,16 @@ Ahmed Sabry</a></h1>
  <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> <h3>About me</h3>
 <p>Ahmed Sabry</p>
 <hr>
+
+<br><br><br><br><br><br><br>
+[⚙️ &nbsp;GitHub Analytics]
+
+| ![Ahmed's github stats](https://github-readme-stats.vercel.app/api?username=A7medS3bry&show_icons=true&theme=tokyonight) | ![Ahmed GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=A7medS3bry&theme=tokyonight) |
+| --- | --- |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=A7medS3bry&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=A7medS3bry&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
+
+<!--	
+<br><br>
 ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
@@ -18,15 +28,6 @@ Ahmed Sabry</a></h1>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=A7medS3bry&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-<br><br><br><br><br><br><br>
-[![Ahmed's GitHub Activity Graph]](https://git.io/praveenscience)
-
-| ![Ahmed's github stats](https://github-readme-stats.vercel.app/api?username=A7medS3bry&show_icons=true&theme=tokyonight) | ![Ahmed GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=A7medS3bry&theme=tokyonight) |
-| --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=A7medS3bry&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=A7medS3bry&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
-
-<!--	
-<br><br>
 
 <h3>Most Used Languages</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=A7medS3bry&show_icons=true&theme=dark&locale=en&layout=compact" alt="A7medS3bry" /></p>
