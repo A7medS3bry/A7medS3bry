@@ -22,7 +22,6 @@ Ahmed Sabry</a></h1>
 - :thinking: I’m currently open for a new `job opportunity` <a href="https://www.linkedin.com/in/a7med-sabry/" target="blank">LinkedIn</a>
 - 🌱 I’m currently Working on `.Net Web App`
 - 💬 Ask me about `.Net`
-- 📫 How to reach me **coder.ahmed.sabry@gmail.com**
 <br/>
 <hr>
 
