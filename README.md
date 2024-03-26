@@ -8,11 +8,18 @@ Ahmed Sabry</a></h1>
 <hr>
 <br>
  <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> <h3>About me</h3>
-
+<p>gfdsg</p>
 <hr>
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=A7medS3bry&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=A7medS3bry&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
 <!--	
-
-
 <br><br>
 
 <h3>Most Used Languages</h3>
@@ -27,11 +34,4 @@ Ahmed Sabry</a></h1>
 
 <br><br><br><br><br><br><br>
 -->
-### ⚙️ &nbsp;GitHub Analytics
 
-<p align="center">
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=A7medS3bry&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=A7medS3bry&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
