@@ -8,9 +8,9 @@ Ahmed Sabry</a></h1>
 <hr>
 <br>
  <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> <h3>About me</h3>
-<p>gfdsg</p>
+<p>Ahmed Sabry</p>
 <hr>
-### ⚙️ &nbsp;GitHub Analytics
+⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
 <a href="https://github.com/AVS1508">
