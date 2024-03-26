@@ -37,6 +37,10 @@ Ahmed Sabry</a></h1>
     &emsp;
   <a href="https://www.java.com" target="_blank"> 
     <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?style=plastic&logo=java&logoColor=white">
+  </a>   
+ &emsp;
+  <a href="#" target="_blank"> 
+    <img alt="Java" src="https://img.shields.io/badge/C%23-8A2BE2">
   </a>
   &emsp;
    <a href="https://www.python.org" target="_blank">
