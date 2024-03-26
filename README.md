@@ -14,10 +14,10 @@ Ahmed Sabry</a></h1>
 <br><br>
 
 
-<h3>My GitHub Stats</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=A7medS3bry&show_icons=true&theme=dark&locale=en&layout=compact" alt="anii693" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=A7medS3bry&show_icons=true&theme=dark&locale=en&layout=compact" alt="A7medS3bry" /></p>
 <br><br><br><br><br><br><br><br><br><br>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=A7medS3bry&show_icons=true&theme=dark&locale=en" alt="anii693" /></p>
+<h3>My GitHub Stats</h3>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=A7medS3bry&show_icons=true&theme=dark&locale=en" alt="A7medS3bry" /></p>
 
 <br><br><br><br><br><br><br><br><br><br>
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=A7medS3bry&theme=dark" alt="anii693" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=A7medS3bry&theme=dark" alt="A7medS3bry" /></p>
