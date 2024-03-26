@@ -7,7 +7,7 @@ Ahmed Sabry</a></h1>
 
 <br>
 
-	
+<!--	
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
 
@@ -24,7 +24,7 @@ Ahmed Sabry</a></h1>
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=A7medS3bry&theme=dark" alt="A7medS3bry" /></p>
 
 <br><br><br><br><br><br><br>
-
+-->
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
