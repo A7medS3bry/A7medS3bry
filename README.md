@@ -19,7 +19,7 @@ Ahmed Sabry</a></h1>
 </a>
 </p>
 <br><br><br><br><br><br><br>
-[![Ahmed's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=A7medS3bry&theme=tokyonight)](https://git.io/praveenscience)
+[![Ahmed's GitHub Activity Graph]](https://git.io/praveenscience)
 
 | ![Ahmed's github stats](https://github-readme-stats.vercel.app/api?username=A7medS3bry&show_icons=true&theme=tokyonight) | ![Ahmed GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=A7medS3bry&theme=tokyonight) |
 | --- | --- |
