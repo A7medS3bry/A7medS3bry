@@ -15,19 +15,14 @@ Ahmed Sabry</a></h1>
 </a>
 
 
-- :school: I am a `Junior` at [Faculty of Computers & Informatics] at [Azhar University](http://suez.edu.eg/ar/).
+- :school: I am a `Junior` at [Faculty of Computers & Informatics] at [Azhar University].
 - :technologist: I love using Software as a solution for every `Problem`.
 - :student: I’m currently learning `Computer Science` and `Software Engineering`.
 - :nerd_face: Always `learning new things`.
 - :thinking: I’m currently open for a new `job opportunity` <a href="https://www.linkedin.com/in/a7med-sabry/" target="blank">LinkedIn</a>
-
-- 🌱 I’m currently Working on .Net Web App
-
-- 💬 Ask me about **.Net**
-
+- 🌱 I’m currently Working on `.Net Web App`
+- 💬 Ask me about `.Net`
 - 📫 How to reach me **coder.ahmed.sabry@gmail.com**
-
-- 📄 Know about my experiences <a href="https://www.linkedin.com/in/a7med-sabry/" target="blank">LinkedIn</a>
 <br/>
 <hr>
 
