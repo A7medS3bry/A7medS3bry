@@ -20,8 +20,8 @@ Ahmed Sabry</a></h1>
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=A7medS3bry&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=A7medS3bry&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 
 
-
-<p>Connect with me on
+<h3>Connect with me on</h3>
+<p>
 <br>	
 <a target="_blank" href="https://www.linkedin.com/in/a7med-sabry/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 &emsp;
