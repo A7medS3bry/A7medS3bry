@@ -20,8 +20,6 @@ Ahmed Sabry</a></h1>
 
 - 🤝 I’m available for freelancing.
 
-- 📝 I regularly write articles on [https://dev.to/100rabhcsmc](https://dev.to/100rabhcsmc)
-
 - 💬 Ask me about **.Net**
 
 - 📫 How to reach me **coder.ahmed.sabry@gmail.com**
